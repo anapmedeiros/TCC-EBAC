@@ -1,0 +1,10 @@
+{
+    "baseUrl": "http://lojaebac.ebaconline.art.br/wp-json/wc/v3/",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+      "reportDir": "mochawesome-report",
+      "overwrite": false,
+      "html": true,
+      "json": true
+    }
+  }
